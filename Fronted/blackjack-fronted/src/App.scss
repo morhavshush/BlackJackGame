@@ -1,0 +1,68 @@
+html, body, #root {
+  font-family: "REGULAR";
+}
+body{
+  margin: 0;
+}
+.App {
+  text-align: center;
+}
+
+
+
+@font-face {
+  font-family: "BLACK";
+  src: url("./utils/font/PLONI-BLACK-AAA.OTF");
+}
+.f-black{
+  font-family: "BLACK";
+}
+@font-face {
+  font-family: "BOLD";
+  src: url("./utils/font/PLONI-BOLD-AAA.OTF");
+}
+.f-bold{
+  font-family: "BOLD";
+}
+@font-face {
+  font-family: "DEMIBOLD";
+  src: url("./utils/font/PLONI-DEMIBOLD-AAA.OTF");
+}
+.f-demi-bold{
+  font-family: "DEMIBOLD";
+}
+@font-face {
+  font-family: "LIGHT";
+  src: url("./utils/font/PLONI-LIGHT-AAA.OTF");
+}
+.f-light{
+  font-family: "LIGHT";
+}
+@font-face {
+  font-family: "MEDIUM";
+  src: url("./utils/font/PLONI-MEDIUM-AAA.OTF");
+}
+.f-medium{
+  font-family: "MEDIUM";
+}
+@font-face {
+  font-family: "REGULAR";
+  src: url("./utils/font/PLONI-REGULAR-AAA.OTF");
+}
+.f-regular{
+  font-family: "REGULAR";
+}
+@font-face {
+  font-family: "ULTRABOLD";
+  src: url("./utils/font/PLONI-ULTRABOLD-AAA.OTF");
+}
+.f-ultra-bold{
+  font-family: "ULTRABOLD";
+}
+@font-face {
+  font-family: "ULTRALIGHT";
+  src: url("./utils/font/PLONI-ULTRALIGHT-AAA.OTF");
+}
+.f-ultra-light{
+  font-family: "ULTRALIGHT";
+}

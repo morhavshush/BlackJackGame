@@ -1,0 +1,41 @@
+@tailwind base;
+@tailwind components;
+@tailwind utilities;
+
+
+@layer components {
+  .label {
+    @apply text-darkGray text-sm pl-2;
+  }
+  .button {
+    @apply mt-1 px-3 py-2  bg-gray  shadow-sm 
+      placeholder-slate-400 
+        block rounded-md sm:text-sm;
+  }
+  .button:active {
+    transform: scale(0.98);
+  }
+  .input {
+    @apply px-3 py-2 bg-white border shadow-sm border-slate-300
+        placeholder-slate-400 focus:outline-none focus:border-azure
+         focus:ring-azure block w-80  rounded-md sm:text-sm focus:ring-1 
+         invalid:border-pink-500 invalid:text-pink-600
+      focus:invalid:border-pink-500 focus:invalid:ring-pink-500;
+  }
+  .select {
+    @apply px-3 py-2 bg-white border shadow-sm border-slate-300
+        placeholder-slate-400 focus:outline-none focus:border-azure
+         focus:ring-azure block w-80  rounded-md sm:text-sm focus:ring-1 
+         invalid:border-pink-500 invalid:text-pink-600
+      focus:invalid:border-pink-500 focus:invalid:ring-pink-500;
+  }
+}
+
+body {
+  margin: 0;
+}
+
+
+.card{
+  width: 100px;
+}

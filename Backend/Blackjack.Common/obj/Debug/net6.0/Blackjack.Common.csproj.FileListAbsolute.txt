@@ -1,0 +1,12 @@
+C:\Users\morha\Desktop\BlackJackGame\Backend\Blackjack.Common\bin\Debug\net6.0\Blackjack.Common.deps.json
+C:\Users\morha\Desktop\BlackJackGame\Backend\Blackjack.Common\bin\Debug\net6.0\Blackjack.Common.dll
+C:\Users\morha\Desktop\BlackJackGame\Backend\Blackjack.Common\bin\Debug\net6.0\Blackjack.Common.pdb
+C:\Users\morha\Desktop\BlackJackGame\Backend\Blackjack.Common\obj\Debug\net6.0\Blackjack.Common.csproj.AssemblyReference.cache
+C:\Users\morha\Desktop\BlackJackGame\Backend\Blackjack.Common\obj\Debug\net6.0\Blackjack.Common.GeneratedMSBuildEditorConfig.editorconfig
+C:\Users\morha\Desktop\BlackJackGame\Backend\Blackjack.Common\obj\Debug\net6.0\Blackjack.Common.AssemblyInfoInputs.cache
+C:\Users\morha\Desktop\BlackJackGame\Backend\Blackjack.Common\obj\Debug\net6.0\Blackjack.Common.AssemblyInfo.cs
+C:\Users\morha\Desktop\BlackJackGame\Backend\Blackjack.Common\obj\Debug\net6.0\Blackjack.Common.csproj.CoreCompileInputs.cache
+C:\Users\morha\Desktop\BlackJackGame\Backend\Blackjack.Common\obj\Debug\net6.0\Blackjack.Common.dll
+C:\Users\morha\Desktop\BlackJackGame\Backend\Blackjack.Common\obj\Debug\net6.0\refint\Blackjack.Common.dll
+C:\Users\morha\Desktop\BlackJackGame\Backend\Blackjack.Common\obj\Debug\net6.0\Blackjack.Common.pdb
+C:\Users\morha\Desktop\BlackJackGame\Backend\Blackjack.Common\obj\Debug\net6.0\ref\Blackjack.Common.dll
